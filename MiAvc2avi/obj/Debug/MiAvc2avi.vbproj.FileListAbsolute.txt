@@ -1,0 +1,11 @@
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\bin\Debug\MiAvc2avi.exe.config
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\bin\Debug\MiAvc2avi.exe
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\bin\Debug\MiAvc2avi.pdb
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\bin\Debug\MiAvc2avi.xml
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.Form1.resources
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.Resources.resources
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.vbproj.GenerateResource.Cache
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.exe
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.xml
+c:\users\kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.pdb
+C:\Users\Kujjs\documents\visual studio 2013\Projects\MiAvc2avi\MiAvc2avi\obj\Debug\MiAvc2avi.vbprojResolveAssemblyReference.cache
